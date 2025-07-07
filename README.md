@@ -7,8 +7,8 @@
 - 🤝 Open to collaborating on exciting open-source and professional projects.
 
 📫 **How to reach me**
-- ✉️ Email: [your-email@example.com](mailto:your-email@example.com)
-- 💼 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+- ✉️ Email: [manishkumar.modi@gmail.com](mailto:manishkumar.modi@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/manishkumar-modi](https://www.linkedin.com/in/manishkumar-modi/)
 
 ⚡ **Fun Fact**
 > I believe in *continuous improvement*, and I love exploring new tech stacks.
